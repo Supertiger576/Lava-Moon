@@ -2,8 +2,8 @@
   "ver": "0.1",
   "info": {
     "id": "",
-    "name": "",
-    "description": "",
+    "name": "Lava Moon",
+    "description": "This shader shows a red circle slowly brightening from left to right then repeating.",
     "tags": []
   },
   "renderpass": [
